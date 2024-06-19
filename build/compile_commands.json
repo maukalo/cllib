@@ -1,0 +1,14 @@
+[
+{
+  "directory": "D:/Projects/cllib/build",
+  "command": "D:\\Projects\\MSYS2\\mingw64\\bin\\c++.exe -ID:/Projects/cllib/cllib -ID:/Projects/cllib/include -g -std=gnu++17 -o CMakeFiles\\cllib.dir\\src\\calc.cpp.obj -c D:\\Projects\\cllib\\src\\calc.cpp",
+  "file": "D:\\Projects\\cllib\\src\\calc.cpp",
+  "output": "CMakeFiles\\cllib.dir\\src\\calc.cpp.obj"
+},
+{
+  "directory": "D:/Projects/cllib/build",
+  "command": "D:\\Projects\\MSYS2\\mingw64\\bin\\c++.exe -ID:/Projects/cllib/cllib -ID:/Projects/cllib/include -g -std=gnu++17 -o CMakeFiles\\cllib.dir\\src\\main.cpp.obj -c D:\\Projects\\cllib\\src\\main.cpp",
+  "file": "D:\\Projects\\cllib\\src\\main.cpp",
+  "output": "CMakeFiles\\cllib.dir\\src\\main.cpp.obj"
+}
+]

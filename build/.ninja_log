@@ -1,0 +1,8 @@
+# ninja log v6
+2	407	7405106196579744	CMakeFiles/cllib.dir/src/main.cpp.obj	4d0ae1bb097883a8
+409	570	7405106200647770	cllib.exe	dae72775c5c161b4
+10	200	7405116118297296	CMakeFiles/cllib.dir/src/calc.cpp.obj	b1ea10ce14165128
+26	437	7405116118457431	CMakeFiles/cllib.dir/src/main.cpp.obj	7f782e60d3a2873f
+437	606	7405116122566528	cllib.exe	d167f8c271ac86bd
+16	428	7405116768526597	CMakeFiles/cllib.dir/src/main.cpp.obj	7f782e60d3a2873f
+429	550	7405116772654897	cllib.exe	d167f8c271ac86bd
