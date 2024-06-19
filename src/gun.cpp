@@ -1,4 +1,4 @@
-#include <calc.h>
+#include <gun.h>
 
 int plusik(int a, int b){
 
